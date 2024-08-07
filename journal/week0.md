@@ -7,4 +7,5 @@
 - Clone Exam Pro aws-bootcamp-cruddur-2023 repository (create new in your github account) :white_check_mark:
 - AWS new account with free tier
 - Setup Lucidchard, but any other tool such as draw.io is more than enough :white_check_mark:
-
+- Setup HoneyComb.io account :white_check_mark:
+- Rollbar account :white_check_mark:
